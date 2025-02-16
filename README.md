@@ -39,6 +39,7 @@ Exemplo de saída:
 ## 📜 Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 ---
 
 Feito com ❤️ por [Italogax](https://github.com/italogax)
