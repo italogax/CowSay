@@ -40,9 +40,6 @@ Exemplo de saída:
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 🤝 Contribuição
-
-Sinta-se à vontade para contribuir! Abra um pull request ou reporte issues no repositório.
-
 ---
+
 Feito com ❤️ por [Italogax](https://github.com/italogax)
